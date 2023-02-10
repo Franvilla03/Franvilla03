@@ -1,2 +1,4 @@
 # Franvilla03_README
-Personal info
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+My name is Fran Villa and im an IT student and a programmer, I know python, html, a bit of javascript and others.
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
