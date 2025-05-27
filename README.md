@@ -19,12 +19,12 @@ Joven de 22 años <br>
 
 <hr>
 
-## 📊 Estadísticas Completas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/Franvilla03">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franvilla03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=6366F1&include_all_commits=true&count_private=true&show_owner=true&custom_title=Estadísticas de Franvilla03" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franvilla03&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franvilla03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&count_private=true&include_all_commits=true&hide=html,css&card_width=320" />
   </a>
 </div>
 
@@ -45,13 +45,14 @@ Joven de 22 años <br>
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franvilla03&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvilla03&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvilla03&theme=github_dark" />
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvilla03&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franvilla03&theme=github_dark&utcOffset=1" />
 </div>
 
