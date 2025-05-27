@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=200&section=header&text=Franvilla03&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Computing&fontSize=50&fontColor=fff&animation=blinking&descSize=18&descAlignY=68&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=200&section=header&text=Franvilla03&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Computing&fontSize=50&fontColor=fff&descSize=18&descAlignY=68&fontAlignY=38" width="100%"/>
 
 ## SOBRE MÍ <br>
 Joven de 22 años <br>
