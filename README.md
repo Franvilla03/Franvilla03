@@ -24,7 +24,6 @@ Joven de 22 años <br>
 <div align="center">
   <a href="https://github.com/Franvilla03">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franvilla03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=6366F1&include_all_commits=true&count_private=true&show_owner=true&custom_title=Estadísticas de Franvilla03" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franvilla03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&count_private=true&include_all_commits=true&hide=html,css&card_width=320" />
   </a>
 </div>
 
