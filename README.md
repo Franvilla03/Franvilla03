@@ -19,8 +19,61 @@ Joven de 22 años <br>
 
 <hr>
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas Completas de GitHub
+
+<div align="center">
+  <a href="https://github.com/Franvilla03">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franvilla03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=6366F1&include_all_commits=true&count_private=true&show_owner=true&custom_title=Estadísticas de Franvilla03" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franvilla03&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&count_private=true&include_all_commits=true&hide=html,css&card_width=320" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Franvilla03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvilla03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franvilla03&theme=github_dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franvilla03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvilla03&theme=github_dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvilla03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franvilla03&theme=github_dark&utcOffset=1" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Franvilla03">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Franvilla03&bg_color=0D1117&color=58a6ff&line=6366F1&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Franvilla03">
+    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Franvilla03&label=Visitas%20al%20perfil&color=58a6ff&style=flat" alt="Visitas al perfil" />
 </div>
