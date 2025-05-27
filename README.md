@@ -20,41 +20,32 @@ Joven de 22 años <br>
 <hr>
 
 ## 📊 Estadísticas de GitHub
+
 <div align="center">
   <a href="https://github.com/Franvilla03">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvilla03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1" alt="GitHub Streak" />
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franvilla03&theme=github_dark" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franvilla03&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvilla03&theme=github_dark" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvilla03&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franvilla03&theme=github_dark&utcOffset=1" />
 </div>
 
-<br>
-
 <div align="center">
   <a href="https://github.com/Franvilla03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Franvilla03&label=Visitas%20al%20perfil&color=58a6ff&style=flat" alt="Visitas al perfil" />
