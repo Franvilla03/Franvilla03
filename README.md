@@ -35,11 +35,3 @@ Joven de 22 años <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvilla03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&count_private=true" alt="GitHub Streak" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Franvilla03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvilla03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1" alt="GitHub Streak" />
-  </a>
-</div>
