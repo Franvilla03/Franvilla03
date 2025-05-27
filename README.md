@@ -43,7 +43,7 @@ Joven de 22 años <br>
 
 <div align="center">
   <a href="https://github.com/Franvilla03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
   </a>
 </div>
 
