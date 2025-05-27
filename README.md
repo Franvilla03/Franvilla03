@@ -32,7 +32,6 @@ Joven de 22 años <br>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franvilla03&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvilla03&theme=github_dark" />
 </div>
 
