@@ -1,4 +1,4 @@
-SOBRE MÍ <br>
+<u>SOBRE MÍ</u> <br>
 Joven de 22 años <br>
 💻 Desarrollador apasionado por la programación. <br>
 🚀 Especializado en desarrollo web y con gran interés en Inteligencia Artificial. <br>
